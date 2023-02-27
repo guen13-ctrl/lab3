@@ -3,3 +3,51 @@ in SYSTEMPATH\CodeIgniter.php on line 226.
  1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
  2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
  3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-02-27 08:23:09 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('ig.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-27 08:23:09 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('tayl.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-27 08:23:09 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('wyn.png')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-27 08:23:09 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('subic.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-27 08:23:09 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('boracay.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-27 08:23:09 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('bolinao.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-27 08:23:09 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('dipolog.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-27 08:23:09 --> Class "App\Controllers\PageNotFoundException" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Pages->view('treasure.mp4')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
