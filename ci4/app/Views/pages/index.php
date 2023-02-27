@@ -65,7 +65,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <source src="treasure.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
-<!-- w3-content defines a container for fixed size centered content, 
+<!-- w3-content defines a dawn container for fixed size centered content, 
 and is wrapped around the whole page content, except for the footer in this example -->
 <div class="w3-content" style="max-width:1400px">
 
