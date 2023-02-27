@@ -1,1 +1,1 @@
-Welcome to my About page! Daniel Olarte
+Welcome to my About page! Guen Joy Alimodian
