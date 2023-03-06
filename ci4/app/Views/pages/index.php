@@ -295,7 +295,7 @@ document.getElementById("demo").innerHTML = text;
   
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
-		<a href ="https://apcwebprog.csf.ph/~gbalimodian/lab2/week5/Resources.html" >  <h5 >Go to Resources page</h5> </a> 
+		<a href ="http://apcwebprog.csf.ph/~gbalimodian/lab3/ci4/public/Resources" >  <h5 >Go to Resources page</h5> </a> 
 
 	<a href="https://web.facebook.com/dawnfairy13/" target="_blank" i class="fa fa-facebook-official w3-hover-opacity"></i></a>
 	
