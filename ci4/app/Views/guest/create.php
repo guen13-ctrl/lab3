@@ -55,6 +55,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:#0F0F0F;width:200px;margin-top:15px">
 <p><a href="http://apcwebprog.csf.ph/~gbalimodian/lab3/ci4/public/guest">View Guest List</a></p>
 
+// comment 
 
 </body>	
 </html>
