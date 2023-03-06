@@ -20,10 +20,16 @@
 <p style="float:right;font-size:18px;cursor:help;padding-right:30px"> 
 	<a a class="ex3" href="http://apcwebprog.csf.ph/~gbalimodian/lab3/ci4/public/index">Go back to home</a></p>
 
-<h1>Guests List</h1>
+<div class = "headline">
+<div class = "text center">
+<strong><h1>Guests List</h1></strong>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:#0F0F0F;width:800px;margin-bottom:50px">
 
+<div class = "container">
+	<div class = "span13 text-center">
+		<div class="headline">
+		
 <?php if (! empty($guest) && is_array($guest)): ?>
 
     <?php foreach ($guest as $guest_item): ?>
@@ -58,7 +64,7 @@
         </div>
     <?php endforeach ?>
 
-    <a a class="ex3" href="http://apcwebprog.csf.ph/~gbalimodian/lab3/ci4/public/guest/create" style="font-size:20px;padding-top:25px">~~~Add Another Feedback~~~</a></p>
+    <a a class="ex3" href="http://apcwebprog.csf.ph/~gbalimodian/lab3/ci4/public/guest/create" style="font-size:20px;padding-top:25px">Add Guest List</a></p>
 
 <?php else: ?>
     <h3>No guest</h3>

@@ -278,7 +278,7 @@ document.getElementById("demo").innerHTML = text;
     
       </li>
       <li class="w3-padding-12">
-        <span class="w3-large"><a href =" http://apcwebprog.csf.ph/~gbalimodian/lab3/ci4/public/news/create" > Visit news archive </a> </span><br>
+        <span class="w3-large"><a href =" http://apcwebprog.csf.ph/~gbalimodian/lab3/ci4/public/news" > Visit news archive </a> </span><br>
       </li> 
 	    </li>
       <li class="w3-padding-12">
